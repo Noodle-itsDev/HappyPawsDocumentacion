@@ -47,7 +47,7 @@ export default function Home() {
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2,1fr)', columnGap: '0.5rem' }}>
             <a href="https://github.com/Noodle-itsDev/Happy-Paws-Backend-Project"><Button variant="contained" sx={{ m: 1 , fontWeight: '600', backgroundColor: 'blueviolet', width: '100%'}}>Repositorio BackEnd</Button></a>
             <a href="https://github.com/Noodle-itsDev/happypaws-app"><Button variant="contained" sx={{ m: 1 , fontWeight: '600', backgroundColor: 'blueviolet', width: '100%'}}>Repositorio FrontEnd</Button></a>
-            <a href="https://drive.google.com/file/d/1xqP4blt2SoISL0OI_tOdoBCX7Yo32g7Y/view?usp=sharing"><Button variant="contained" sx={{ m: 1 , fontWeight: '600', backgroundColor: 'darkblue', width: '100%'}}>Documentación proyecto</Button></a>
+            <a href="https://drive.google.com/file/d/1l6uA71Sbk8AeTjnA0lNHjpc9y26oBy96/view?usp=sharing"><Button variant="contained" sx={{ m: 1 , fontWeight: '600', backgroundColor: 'darkblue', width: '100%'}}>Documentación proyecto</Button></a>
             <a href=""><Button variant="contained" sx={{ m: 1 , fontWeight: '600', backgroundColor: 'darkblue', width: '100%'}}>WEB</Button></a>
           </div>
         </div>
